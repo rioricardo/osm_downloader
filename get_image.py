@@ -78,7 +78,7 @@ first_zoom = 6
 last_zoom = 7
 iter_rast = 0
 
-output_prefix = "D:/5_Data_Proyek/JAMALI_lagi/5_Template/RasterSet/osm2"  # Replace with your desired path
+output_prefix = "D:/5_Data_Proyek/JAMALI_lagi/5_Template/RasterSet/osm3"  # Replace with your desired path
 
 tile_x_topl, tile_y_topl = lon_lat_to_tile_index(lon_java, lat_java, first_zoom)
 print(f"Tile Index top left Java: x={tile_x_topl}, y={tile_y_topl}")

@@ -1,0 +1,17 @@
+koordinat jawa bali
+left bottom
+ tile 50,34
+ long: 101.25
+ lat: -5.315693749999994
+ longitude in meters : 11271098.442818949
+ latitude in meters : -592591.0488787752 
+
+left top
+ tile 50,33
+ long: 101.25
+ lat: -2.657846875000004
+ longitude in meters : 11271098.442818949
+ latitude in meters : -295976.3298678109
+ 
+ tile 51, 33
+ 11897270.578531113
